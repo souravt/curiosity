@@ -1,5 +1,3 @@
-# curiosity
-# curiosity
-# curiosity
-# curiosity
-# curiosity
+# Curiosity
+
+Contains solution to some interesting problems
